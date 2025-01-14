@@ -1,0 +1,145 @@
+.orange{
+    background-color: #FFCE7a;
+    height: 100px;
+    width: 400px;
+}
+.blue{
+    background-color: #9DDDf4;
+    height: 250px;
+    width: 150px;
+}
+.red{
+    background-color: #F89C9C;
+    height: 150px;
+    width: 100px;
+}
+.green{
+    background-color: #C2FFC8;
+    height: 50px;
+    width: 150px;
+}
+.pink{
+    background-color: #FFC2C5;
+    height: 100px;
+    width: 150px;
+}
+.yellow{
+    background-color: #FFF083;
+    height: 100px;
+    width: 250px;
+}
+.puple{
+    background-color: #BEA5FF;
+    height: 100px;
+    width: 400px;
+}
+.middle{
+    display: flex;
+}
+.middle-right-top{
+    display: flex;
+}
+.main{
+    height: 450px;
+    width: 400px;
+}
+
+
+
+
+    @media screen and (max-width: 767px) {
+.orange{
+    background-color: #FFCE7a;
+    height: 100px;
+    width: 300px;
+}
+.blue{
+    background-color: #9DDDf4;
+    height: 250px;
+    width: 150px;
+}
+.red{
+    background-color: #F89C9C;
+    height: 150px;
+    width: 75px;
+}
+.green{
+    background-color: #C2FFC8;
+    height: 50px;
+    width: 125px;
+}
+.pink{
+    background-color: #FFC2C5;
+    height: 100px;
+    width: 125px;
+}
+.yellow{
+    background-color: #FFF083;
+    height: 100px;
+    width: 200px;
+}
+.puple{
+    background-color: #BEA5FF;
+    height: 100px;
+    width: 300px;
+}
+.middle{
+    display: flex;
+}
+.middle-right-top{
+    display: flex;
+}
+.main{
+    height: 450px;
+    width: 300px;
+}
+    }
+
+    @media screen and (max-width: 479px) {
+        .orange{
+            background-color: #FFCE7a;
+            height: 100px;
+            width: 150px;
+        }
+        .blue{
+            background-color: #9DDDf4;
+            height: 250px;
+            width: 150px;
+        }
+        .red{
+            background-color: #F89C9C;
+            height: 150px;
+            width: 150px;
+        }
+        .green{
+            background-color: #C2FFC8;
+            height: 50px;
+            width: 150px;
+        }
+        .pink{
+            background-color: #FFC2C5;
+            height: 100px;
+            width: 150px;
+        }
+        .yellow{
+            background-color: #FFF083;
+            height: 100px;
+            width: 150px;
+        }
+        .puple{
+            background-color: #BEA5FF;
+            height: 100px;
+            width: 150px;
+        }
+        .middle{
+            display: block;
+        }
+        .middle-right-top{
+            display: block;
+        }
+        .main{
+            height: auto;
+            width: 150px;
+        }  
+    }
+
